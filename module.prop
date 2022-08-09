@@ -1,0 +1,7 @@
+# id 只能填 字母 数字 半角符号
+id=JetXiaWu
+name=字体模块 JetXiaWu
+version=v0.1.1
+versionCode=1
+author=pu(pu-007.github.io/blog)
+description=JetBrains Mono 与霞鹜文楷混合字体
